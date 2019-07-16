@@ -8,7 +8,7 @@
     },
     "files": [
         "README.md",
-        "main.ts",
+        "drv2605l.ts",
         "jacdac.ts",
         "registerhelper.ts"
     ],
